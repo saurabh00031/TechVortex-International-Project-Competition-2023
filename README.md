@@ -1,4 +1,4 @@
 
-# TechVortex International Project Competion :
+#TechVortex International Project Competion :
 
-## ( Code is kept incomplete due to security reasons )
+##( Code is kept incomplete due to security reasons )
